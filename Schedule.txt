@@ -1,0 +1,18 @@
+Timings         Event                          Alloated Time     Time Gap 
+---------------------------------------------------------------------------------
+                                                                                       
+11:00-05:30 --- Sleep                             06:00            30                                               
+                                                                                      
+06:00-07:30 --- Engineering Mathematics           01:30            30                                     
+                                                                                    
+08:00-11:30 --- Mechanics of Solids               03:30            30                                      
+                                                                                    
+12:00-02:00 === Engineering Mathematics           02:00            01                                    
+                                                                              
+03:00-06:30 --- Solids of Mechanics               03:30            30                                  
+                                                                          
+07:00-08:30 === Engineering Mathematics           01:30            01                             
+                                                                      
+09:30-11:00 --- Revise                            01:30           06:30                                                                         
+                                                                              
+                                                                                       

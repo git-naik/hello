@@ -1,0 +1,102 @@
+Question 15. What Is Cavitation?
+
+Answer :Cavitation is the formation of vapor cavities (Air bubbles) in a liquid.
+
+Question 1. How Cavitation Can Be Eliminated In A Pump?
+
+Answer :Cavitation means bubbles are forming in the liquid.
+
+To avoid Cavitation, we have to increase the Pump size to One or Two Inch;
+To increase the pressure of the Suction Head, or
+Decrease the Pump Speed.
+
+
+Question 2. Which Pump Is More Efficient Centrifugal Pump Or Reciprocating Pump?
+
+Answer :Centrifugal pump. Because flow rate is higher compared to reciprocating pump. Flow is smooth and it requires less space to install. Lower initial cost and lower maintenance cost.
+
+Question 3. Why Centrifugal Pump Is Not Called As A Positive Displacement Type Of Pump?
+
+Answer :The centrifugal has varying flow depending on pressure or head, whereas the Positive Displacement pump has more or less constant flow regardless of pressure.
+
+Question 4. Why The Centrifugal Pump Is Called High Discharge Pump?
+
+Answer :Centrifugal pump is a kinetic device. The centrifugal pump uses the centrifugal force to push out the fluid. So the liquid entering the pump receives kinetic energy from the rotating impeller.
+
+Question 5. Why Cavitation Will Occur In Centrifugal Pumps And Not In Displacement Pumps?
+
+Answer :The formation of cavities (or bubbles) is induced by flow separation, or non-uniform flow velocities, inside a pump casing. In centrifugal pumps the eye of the pump impeller is smaller than the flow area of pipe. This decrease in flow area of pump results in increase in flow rate. So pressure drop happened between pump suction and the vanes of the impeller. Here air bubbles or cavities are formed because of liquid vapour due to increase in temperature in impeller. This air bubbles are transmitted to pump which forms cavitation.
+
+Question 8. What Are Two Types Of Clearance In A Turbine?
+
+Answer :Radial – clearance at the tips of the rotor and casing.
+Axial – the foreandaft
+clearance, at the sides of the rotor and the casing
+
+Question 12. What Are The Two Basic Types Of Steam Turbines?
+
+Answer :Impulse type.
+Reaction type.
+
+Question 18. Differentiate Between The Uniform Flow And Non-uniform Flow?
+
+Answer :Uniform Flow: The flow is defined as uniform flow when in the flow field the velocity and other hydrodynamic parameters do not change from point to point at any instant of time.
+
+Non-Uniform Flow: When the velocity and other hydrodynamic parameters changes from one point to another the flow is de􀃡ned as non-uniform flow.
+
+
+Question 19. What Is The Difference Between The Unsteady Uniform Flow And Steady Uniform Flow?
+
+Answer :Unsteady uniform flow - changes with time.
+
+Steady uniform flow - does not change with time.
+
+
+Question 31. What Is Heat Treatment And Why Is It Done?
+
+Answer :Heat treatment can be defined as a combination of processes or operations in which the heating and cooling of a metal or alloy is done in order to obtain desirable characteristics without changing the compositions.
+
+Some of the motives or purpose of heat treatment are as follows:-
+
+In order to improve the hardness of metals.
+For the softening of the metal.
+In order to improve the machinability of the metal.
+To change the grain size.
+To provide better resistance to heat, corrosion, wear etc.
+Heat treatment is generally performed in the following ways:
+
+Normalizing
+Annealing
+Spheroidising
+Hardening
+Tempering
+Surface or case hardening
+
+Question 35. What Is A Bearing? What Are The Different Types Of Bearings?
+
+Answer :Bearing is a device that helps smoother movement with minimal friction which in turn helps enhances efficiency and speed. 
+
+Question 38. What Kind Of Pipes Are Used For Steam Lines?
+
+Answer :
+
+Pressure and temperature are two of the most important factors to be considered before selecting the type of material to be used. Steam is a compressible gas due to which the capacity of the pipe line depends on the size of the pipes and pressure of the steam. Since steam at even low pressure can be dangerous, extra care is to be taken. Galvanized pipes are usually not used for steam. Pipes made of mild steel with welded fittings are instead largely used.
+
+Question 39. Explain The Difference Between Pipe And A Tube?
+
+Answer :A pipe is measured based on its inner diameter (ID) whereas a tube is measured based on the outer diameter (OD). Other than the dimensions there is no major difference between the two.
+
+Question 41. What Is Torque?
+
+Answer :
+
+Torque is the force that causes rotation. It is a measure of how much force is acting on an object making it rotate.
+
+
+Question 43. Why Do Heavy Vehicles Use Diesel Engine?
+
+Answer :The compression ratio of diesel engine is higher than the petrol engine, the reason for producing higher torque. The efficiency of diesel engine increases with load. Diesel produces slow energy on burning of fuel and the efficiency of the engine increases with load which is why diesel engine is suitable and largely used for heavy vehicles.
+
+
+
+

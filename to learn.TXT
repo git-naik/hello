@@ -1,0 +1,38 @@
+welding  and types
+casting and types
+etc
+
+
+1) What is Autocad?
+
+Autocad is a software program built to design and shape the 2-D and 3-D images.  It provides the tools by which a detail design of the product can be done. It also has the option to create detailed design layout, which can be automatically drawn by using source model.
+
+
+4) What is the file formats used in design?
+
+In Autocad, .dwg file format is used for design, it can be an interchangeable format.  The file format which is interchangeable has the extension as DXF and operates data operability. It provides different languages which can be used as per the requirement.
+
+
+5) How you can create a user interface in Autocad?
+
+User interface can be created by using the command prompts to draw the plots and dialog boxes. The dialog boxes can be displayed by the use of PLOT command and the external database commands (ASE).  Setting of CMDDIA to 1, allows the dialog boxes to run the command.  The user interface creation also needs the command line to display the entire file so that it can be edited or customized easily.
+
+
+10) What are the steps that enable the drag and drop feature in Autocad?
+
+Autocad provides a way to drag and drop the elements by the use of “NOUN” and “VERB” in a dialog box.  It allows the object to move from one place to another.  Likewise, the remove or editing function can be done by using “MOVE and ERASE”.
+
+9) What is the process to draw a line more than one time and save it automatically?
+
+When a need arises to draw a new line the process opens up a new file in a new session to write the file. Autocad allows saving multiple drawing for each session. The files are saved by using the file extension .dwg and it can be modified by using the browser.
+
+19) Tell me how you assign the keyboard characters or function keys to Autocad commands?
+
+By editing the ACCELERATORS section of the Autocad menu file we can assign keyboard characters to Autocad commands.
+
+
+24) What are grips?
+
+Grips are small boxes that appear on the objects you select.  You can move or edit an object by dragging a grip.
+
+

@@ -1,0 +1,68 @@
+i was enthusiastic that what is an industry and how it works. So in the 1st year summer holidays i went for inplant training where i came to know about the different areas where different people work for the industry. welding and casting,grinding, hydraulic machines, cnc machines. And the Ordnance Factory manufactures like Armoured vehicles like Sarath BMP II,Armored Amulances and different types of war tankers. Assembly of the vehicles.  We understood how an organization works.
+
+
+
+In Bhel we learnt about the wide varities of products which it manufactures  like gas turbines,steam turbines, pumps,heat exchangers, pressure vessels,pulverisers,circuit breakers,   etc
+
+gas turbines                                                   steam turbines
+
+Advantages	                Disadvantages
+Less water used since there 
+is no need for a condenser	Temperature of combustion chamber 
+                                is too high thus resulting in a lower life.
+Maintenance charges are low	.
+
+Can be started quickly	.
+
+No stand-by losses
+
+
+Gas Turbine principle -the gas-turbine operates on the principle of the Brayton cycle, where compressed air is mixed with fuel, and burned under constant pressure conditions. The resulting hot gas is allowed to expand through a turbine to perform work
+
+Steam Turbine Principle- In simple terms, a steam turbine works by using a heat source (gas, coal, nuclear, solar) to heat water to extremely high temperatures until it is converted into steam. ... The potential energy of the steam is thus turned into kinetic energy in the rotating turbine's blades.
+
+
+Heat Exchanger-A heat exchanger is a system used to transfer heat between two or more fluids. Heat exchangers are used in both cooling and heating processes. The fluids may be separated by a solid wall to prevent mixing or they may be in direct contact.
+
+Pressure Vessels-A pressure vessel is a container designed to hold gases or liquids at a pressure substantially different from the ambient pressure.
+
+Pulveriser - A pulverizer or grinder is a mechanical device for the grinding of many different types of materials. For example, a pulverizer puritch is used to pulverize coal for combustion in the steam-generating furnaces of coal power plants
+
+Circuit Breaker- A circuit breaker is an automatically operated electrical switch designed to protect an electrical circuit from damage caused by excess current from an overload or short circuit. Its basic function is to interrupt current flow after a fault is detected. Air Blast circuit breakers ranging 100- 400 V approx
+
+
+
+Wiper Mechanism
+----------------------
+IN OUR MODEL WIPERS  ARE  OPERATED  ACCORDING  TO CRANK-SLIDER MECHANISM
+
+GENERALLY WIPERS  ARE  POWERED  BY  -- ELECTRIC POWER  OR  MECHANICAL POWER.
+
+WIPERS  IN  OUR  MODEL  WORK  PURELY  ON  MECHANICAL POWER.  
+BY ROTATING THE HANDLE THE RACK UNDERGOES TO AND FRO MOTION ACCORDING TO SLIDER-CRANK MECHANISM INTURN LEADING WIPERS TO OSCILLATE.
+
+
+
+
+
+STress analysis of Rail tracks
+--------------------------------------
+in our project we studied about how it came into being in a safe manner through precise calculations of stresses, strains, etc that arises in rail tracks.
+
+STRESSES DUE TO LONGITUDINAL FORCES which are generally caused due to Braking force of wheels
+Temperature variation in welded rails. weight of the engine
+
+STRESSES DUE TO LATERAL FORCES Actually, oscillations causes striking of flanges of wheels to the rails, these action produces
+Lateral deflection,
+
+CONTACT STRESS BETWEEN RAIL AND WHEEL
+
+TRACK STRESSES WHILE MOVING
+
+Thermal Stresses
+
+
+
+
+
+ 
